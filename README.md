@@ -1,7 +1,4 @@
-# Sokoban - Partie 2 
-
-Deuxième partie du TP noté du jeu Sokoban.
-
+# Sokoban GAME Avec C 
 
 ## Compilation
 
